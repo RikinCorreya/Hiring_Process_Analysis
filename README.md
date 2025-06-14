@@ -10,4 +10,4 @@ Outlier Detection: Check for outliers in the dataset that may skew your analysis
 Removing Outliers: Decide on the best strategy to handle outliers. This could be removing them, replacing them, or leaving them as is, depending on the situation.
 Data Summary: After cleaning and preparing your data, summarize your findings. This could involve calculating averages, medians, or other statistical measures. It could also involve creating visualizations to better understand the data.
 
-** Go through the presentation file to have a better understanding of the steps, approach, data analysis, tasks, results and conclusions. **
+**Go through the presentation file to have a better understanding of the steps, approach, data analysis, tasks, results and conclusions.**
